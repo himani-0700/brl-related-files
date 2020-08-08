@@ -1,0 +1,35 @@
+List<String> thirdyearnames=[
+    "Aman Kumar","Anshika Bajpai","Deepika Maurya",
+    "Harsh Gupta","Himani Chauhan",
+    "Himanshi Singh","Palak Tiwari","Prakhar Chauhan",
+    "Rachit Agarwal","Shivam Bisht","Vishesh Dhawan"];
+
+List<String> thirdyearimageurl=[
+    "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png","https://raw.githubusercontent.com/amolsr/Asset/master/Brl%20Site/AnshikaBajpai.jpg","https://raw.githubusercontent.com/amolsr/Asset/master/Brl%20Site/DeepikaMaurya.jpg",
+    "https://raw.githubusercontent.com/amolsr/Asset/master/Brl%20Site/HarshGupta.jpg","https://raw.githubusercontent.com/amolsr/Asset/master/Brl%20Site/HimaniChauhan.jpg",
+    "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png","https://raw.githubusercontent.com/amolsr/Asset/master/Brl%20Site/PalakAgarwal.jpg","https://raw.githubusercontent.com/amolsr/Asset/master/Brl%20Site/PrakharPratap.jpg",
+    "https://raw.githubusercontent.com/amolsr/Asset/master/Brl%20Site/RachitAgarwal.jpg","https://raw.githubusercontent.com/amolsr/Asset/master/Brl%20Site/ShivamBisht.jpg","https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png"];
+
+List<String> thirdyeargithublinks=[
+    "https://www.google.com/","https://github.com/Anshika10th","https://github.com/deepika9560",
+    "https://github.com/harshgupta80700","https://github.com/himani100700",
+    "https://www.google.com/","https://github.com/Palak2820","https://github.com/cprakhar007",
+    "https://github.com/Rachit7299","https://github.com/shivam-S-bisht/","https://www.google.com/"];
+
+List<String> thirdyearlinkedinlinks=[
+    "https://www.google.com/","http://linkedin.com/in/anshika-bajpai-73b5761ab","https://www.linkedin.com/in/deepika-maurya-145b091a9",
+    "https://www.linkedin.com/in/harsh-gupta-129233145/","https://www.linkedin.com/in/himani-chauhan-100700/",
+    "https://www.google.com/","https://www.linkedin.com/in/palak-tiwari-94334b19a/","https://www.linkedin.com/in/prakhar-chauhan-227594192/",
+    "https://www.linkedin.com/in/rachit-agarwal-65bb571a4/","https://www.linkedin.com/in/shivam-bisht-154b461b0/","https://www.google.com/"];
+
+List<String> thirdyearinstalinks=[
+    "https://www.google.com/","https://www.instagram.com/anshika_bajpai1/","http://instagram.com/mauryadeepika_",
+    "https://www.instagram.com/_harsh.hg807_/","https://www.instagram.com/1007_himani/",
+    "https://www.google.com/","https://www.instagram.com/palak_2808/","https://www.instagram.com/cprakhar007/",
+    "https://www.instagram.com/rachit_agarwal1/","https://www.instagram.com/asli_pahari/","https://www.google.com/"];
+    
+List<String> thirdyeartech=[
+    "Developer","Application Developer","Web Developer",
+    "Flutter Developer","Web Developer",
+    "Web Developer","Backend Developer","Flutter Developer",
+    "Frontend Developer","Backend Developer","Mern Stack Developer"];        

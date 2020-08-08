@@ -1,0 +1,16 @@
+
+.body {
+    margin: 10em;
+    
+  background-image: linear-gradient(to bottom right,#0b90bd,#00d95e); 
+  background-repeat: no-repeat;
+}
+.crddes{
+	background-color: whitesmoke;
+	color: black;
+}
+.card {
+  
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+}
